@@ -11,7 +11,6 @@ This repository contains the projects required to complete Business Analyst Nano
 7. [Part 6: Time Series Forecasting](#p6)
 8. [Part 7: Segmentation and Clustering](#p7)
 9. [Tools and Techniques](#tools)
-10. [Certification](#cerf)
 
 ## Program Descriptions<a name="des"></a>
 This 3-months duration program provides foundational data skills that apply across 
@@ -88,6 +87,3 @@ combining predictive techniques and delivering results to complex business probl
 - SQLite
 - Tableau
 
-
-## Certification<a name="cerf"></a>
-<img src="Certification.png" width="400">
