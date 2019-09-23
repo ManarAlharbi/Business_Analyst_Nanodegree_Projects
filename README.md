@@ -12,9 +12,6 @@ This repository contains the projects required to complete Business Analyst Nano
 7. [Segmentation and Clustering](#p7)
 
 ## Part 1: Problem Solving with Analytics<a name="p1"></a>
-- Learn a structured framework for solving problems with advanced analytics.
-- Select the most appropriate analytical methodology based on the context of the business problem.
-- Build, validate, and apply linear regression models to solve a business problem.
 
 ### Project 1.1: Predicting Diamond Prices
 Use a predictive model to predict the prices for a large set 
