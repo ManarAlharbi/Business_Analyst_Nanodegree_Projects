@@ -21,47 +21,52 @@ and creating informative data visualizations with Tableau.
 ## Part 1: Problem Solving with Analytics<a name="p1"></a>
 
 ### Project 1.1: Predicting Diamond Prices
-Use a predictive model to predict the prices for a large set 
-of diamonds and provide a recommendation for a bid price.
+A jewelry company wants to put in a bid to purchase a set of 3,000 diamonds, 
+but is unsure how much it should bid. So, I applied a 
+linear regression model to predict the diamond prices and 
+make a recommendation on how much the jewelry company should bid for the diamonds.
 
 ### Project 1.2: Predicting Catalog Demand
-A home-goods manufacturer wants to predict expected profits from a catalog launch. 
-You will apply a framework to work through the problem and build a 
-linear regression model to provide results and a recommendation.
+A home-goods manufacturer wants to predict expected profits 
+from sending a catalog to 250 new customers. So, I applied a framework to work 
+through the problem and built a linear regression model to provide results and a recommendation.
 
 ## Part 2: Data Wrangling<a name="p2"></a>
 
 ### Project 2.1: Create an Analytical Dataset
 A pet store chain is selecting the location for its next store. 
-You will use data preparation techniques to build a robust analytic dataset, 
+So, I used data preparation techniques to build a robust analytic dataset, 
 then build a predictive model to select the best location.
 
 ### Project 2.2: Create Reports from a Database
 Create Reports from a Database Management wants some high level metrics 
-about their organization. You will write SQL queries to extract and analyze 
-data from a transactions database and prepare a set of visualizations.
+about their organization. I wrote SQL queries to extract and analyze 
+data from a transactions database and prepared a set of visualizations.
 
 
 ## Part 3: Data Visualization<a name="p3"></a>
 
 ### Project 3: Visualizing Movie Data
-You will explore a dataset of movies and build Tableau dashboards 
-to answer a set of questions and tell a story with data.
-
+In this project, I explored a movies dataset and built Tableau dashboards 
+to answer a set of questions, listed below, and tell a story with data.
+- Question 1: How have movie genres changed over time?
+- Question 2: How do the attributes differ between Universal Pictures and Paramount Pictures?
+- Question 3: How have movies based on novels performed relative to movies not based on novels?
+- Question 4: What is the most profitable runtime for a movie?
 
 ## Part 4: Classification Models<a name="p4"></a>
 
-### Project 4: Predicting Default Risk
+### Project 4: Predicting Customer's Creditworthiness
 A bank recently received an influx of loan applications. 
-You will build and apply a classification model to provide a 
-recommendation on which loan applicants the bank should lend to.
+So, I built and applied a classification model to provide a recommendation 
+on which loan applicants the bank should lend to.
 
 
 ## Part 5: A/B Testing<a name="p5"></a>
 
-### Project 5: A/B Test a New Menu Launch
+### Project 5: Analyzing a Market Test
 A chain of coffee shops is considering launching a new menu. 
-You will design and analyze an A/B test and write up a 
+So, I designed and analyzed an A/B test and wrote up a 
 recommendation on whether the chain should introduce the new menu.
 
 
@@ -69,13 +74,13 @@ recommendation on whether the chain should introduce the new menu.
 
 ### Project 6: Forecast Video Game Sales
 A video game producer is planning production levels. 
-You will use time series forecasting models to forecast monthly 
+So, I used time series forecasting models to forecast monthly 
 demand and provide a recommendation to help match supply to demand.
 
 
 ## Part 7: Segmentation and Clustering<a name="p7"></a>
 
-### Project 7: Combining Predictive Techniques
+### Project 7: Predictive Analytics Capstone
 A grocery store chain is planning a significant expansion. 
 You will use multiple analytical techniques to provide recommendations 
 on how to expand. After completing the project, you will feel comfortable 
