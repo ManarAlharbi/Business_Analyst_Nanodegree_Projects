@@ -2,14 +2,21 @@
 This repository contains the projects required to complete Business Analyst Nanodegree program of Udacity academy.
 
 ## Table of Contents
+1. [Program Descriptions](#des)
+2. [Part 1: Problem Solving with Analytics](#p1)
+3. [Part 2: Data Wrangling](#p2)
+4. [Part 3: Data Visualization](#p3)
+5. [Part 4: Classification Models](#p4)
+6. [Part 5: A/B Testing](#p5)
+7. [Part 6: Time Series Forecasting](#p6)
+8. [Part 7: Segmentation and Clustering](#p7)
+9. [Tools and Techniques](#tools)
 
-1. [Problem Solving with Analytics](#p1)
-2. [Data Wrangling](#p2)
-3. [Data Visualization](#p3)
-4. [Classification Models](#p4)
-5. [A/B Testing](#p5)
-6. [Time Series Forecasting](#p6)
-7. [Segmentation and Clustering](#p7)
+## Program Descriptions<a name="des"></a>
+This 3-months duration program provides foundational data skills that apply across 
+functions and industries. It focuses on analyzing data and 
+building models with Excel, query databases using SQL, 
+and creating informative data visualizations with Tableau. 
 
 ## Part 1: Problem Solving with Analytics<a name="p1"></a>
 
@@ -74,4 +81,9 @@ You will use multiple analytical techniques to provide recommendations
 on how to expand. After completing the project, you will feel comfortable 
 combining predictive techniques and delivering results to complex business problems.
 
+## Tools and Techniques<a name="tools"></a>
+- Microsoft Excel
+- Alteryx Designer
+- SQLite
+- Tableau
 
