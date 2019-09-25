@@ -81,14 +81,21 @@ demand and provide a recommendation to help match supply to demand.
 ## Part 7: Segmentation and Clustering<a name="p7"></a>
 
 ### Project 7: Predictive Analytics Capstone
-A grocery store chain is planning a significant expansion. 
-You will use multiple analytical techniques to provide recommendations 
-on how to expand. After completing the project, you will feel comfortable 
-combining predictive techniques and delivering results to complex business problems.
+This capstone project has three main tasks,
+- Task 1: Determining Store Format
+- Task 2: Determining the Store Format for New Stores
+- Task 3: Forecasting Produce Sales
+
+A grocery store chain has 85 grocery stores and is planning to open 
+10 new stores at the beginning of the year. Currently, all stores 
+use the same store format for selling their products, which leads
+to product surplus and shortages. So, I provided analytical 
+support to make decisions about store formats and inventory planning. 
+Also, the company wants to have an accurate monthly sales forecast. So, I prepared a monthly forecast for produce sales for the full year of 2016 for both existing and new stores.
 
 ## Tools and Techniques<a name="tools"></a>
-- Microsoft Excel
-- Alteryx Designer
-- SQLite
-- Tableau
+- [Microsoft Excel](https://products.office.com/ar-ww/excel?legRedir=true&CorrelationId=9646882c-caf8-4d61-a94c-0bfc90efee2e&rtc=1)
+- [Alteryx Designer](https://www.alteryx.com/products/alteryx-platform/alteryx-designer)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Tableau](https://www.tableau.com/)
 
